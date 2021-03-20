@@ -1,13 +1,13 @@
 ---
 title: HosterMaxer
-subtitle: The best hosting
-image: /img/home-jumbotron.jpg
+subtitle: The best hosting powered by Git
+image: img/server-2-512.webp
 blurb:
-  heading: Why Kaldi?
-  text: Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: Why HosterMaxer?
+  text: HosterMaxer is surely the best free hosting service in the world.While
+    other services offer little space, outdated cpanel, insecure connections
+    without SSL, etc., HosterMaxer offers UNLIMITED SPACE, SECURE SSL, SECURE
+    FTP, etc. 100% free
 intro:
   heading: What we offer
   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
