@@ -17,7 +17,4 @@ intro:
 products:
   - image: img/server-2-512.webp
     text: Free Hosting
-values:
-  heading: Docs
-  text: Documentation Here
----
+MADE WITH ❤ BY TOTALWEBSITE
